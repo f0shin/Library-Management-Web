@@ -1,6 +1,7 @@
 # 빌드 폴더 제외
 /target/
 /build/
+/src/main/webapp/WEB-INF/lib/
 
 # IDE 설정 파일 제외
 .idea/
@@ -8,6 +9,7 @@
 .classpath
 .project
 .dbeaver
+.vscode
 
 # 로그 파일 제외
 *.log
