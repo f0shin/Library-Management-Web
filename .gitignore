@@ -9,7 +9,7 @@
 .classpath
 .project
 .dbeaver
-.vscode
+.vscode/
 
 # 로그 파일 제외
 *.log
