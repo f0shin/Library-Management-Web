@@ -1,0 +1,14 @@
+# 빌드 폴더 제외
+/target/
+/build/
+
+# IDE 설정 파일 제외
+.idea/
+.settings/
+.classpath
+.project
+.dbeaver
+
+# 로그 파일 제외
+*.log
+*.tmp
